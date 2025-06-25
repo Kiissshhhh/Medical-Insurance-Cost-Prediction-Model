@@ -49,7 +49,3 @@ The model's performance is evaluated using the following metrics:
 - **Mean Absolute Error (MAE)**: Measures the average magnitude of the errors in a set of predictions, without considering their direction.
 - **Mean Squared Error (MSE)**: Measures the average of the squares of the errors, indicating how close the predicted values are to the actual values.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
