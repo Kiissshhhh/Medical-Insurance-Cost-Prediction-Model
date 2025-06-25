@@ -7,11 +7,6 @@
 - [Data](#data)
 - [Model](#model)
 - [Evaluation Metrics](#evaluation-metrics)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
 
 ## Description
 This project aims to predict medical insurance costs using machine learning techniques, specifically leveraging linear regression. The model provides insights into the factors affecting insurance premiums, helping stakeholders understand and anticipate costs more effectively.
